@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KacperCichecki
 - 👀 I’m interested in Java programming
-- 🌱 I’m currently learning MongoDB, design patterns
+- 🌱 I’m currently learning MongoDB, design patterns, JVM internals
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
